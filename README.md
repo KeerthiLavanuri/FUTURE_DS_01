@@ -111,13 +111,4 @@ Market segment analysis
 
 Data-driven decision making
 
-📷 Dashboard Preview
 
-
-## Sales Analytics Dashboard Preview
-
-## Dashboard Preview
-
-## Dashboard Preview
-
-![Dashboard Preview](dashboard.png)

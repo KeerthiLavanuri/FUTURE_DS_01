@@ -114,4 +114,6 @@ Data-driven decision making
 📷 Dashboard Preview
 
 
-/images/sales-dashboard.png
+## Sales Analytics Dashboard Preview
+
+[![Sales Dashboard](images/sales-dashboard.png)](images/sales-dashboard.png)

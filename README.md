@@ -114,6 +114,4 @@ Data-driven decision making
 📷 Dashboard Preview
 
 ⭐ If you like this project, feel free to star the repository!# FUTURE_DS_01
-
-
-Screenshot 2026-03-04 115347.png [dashboard]
+[View dashboard].(dashbord.png)

@@ -116,4 +116,4 @@ Data-driven decision making
 ⭐ If you like this project, feel free to star the repository!# FUTURE_DS_01
 
 
-![Sales Analytics Dashboard](images/sales_dashboard_preview.png)
+![Sales Analytics Dashboard](Screenshot 2026-03-04 115347.png)

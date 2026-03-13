@@ -118,4 +118,6 @@ Data-driven decision making
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ![Dashboard Preview](dashboard.png)

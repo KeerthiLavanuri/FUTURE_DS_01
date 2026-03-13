@@ -114,4 +114,4 @@ Data-driven decision making
 📷 Dashboard Preview
 
 
-[View dashboard].(dashbord.png)
+/images/sales-dashboard.png

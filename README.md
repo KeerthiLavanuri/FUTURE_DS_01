@@ -115,4 +115,8 @@ Data-driven decision making
 
 ⭐ If you like this project, feel free to star the repository!# FUTURE_DS_01
 
-[![Dashboard Preview](dashboard.png)](sales_dashboard.pbix)
+I## Dashboard Preview
+
+Click the image below to view the dashboard.
+
+[![Dashboard Preview](screenshot.png)](sales_dashboard.pbix)
